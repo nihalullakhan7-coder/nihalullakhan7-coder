@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Nihal Ulla Khan
+ 3rd Year Information Science Engineering Student  
+ Interested in AI, Machine Learning & Full Stack Development  
+ Currently learning: Deep Learning & Web Development  
+ 
+ ##  Skills
+ Languages: Python, C++, Java  
+ Web: HTML, CSS, JavaScript  
+ Tools: Git, GitHub, Linux 
 
-<!--
-**nihalullakhan7-coder/nihalullakhan7-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Connect with me
+- LinkedIn: https://www.linkedin.com/in/nihal-ulla-khan-727395370

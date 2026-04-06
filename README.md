@@ -1,7 +1,7 @@
 # Hi there, I'm Nihal Ulla Khan
  3rd Year Information Science Engineering Student  
  Interested in AI, Machine Learning & Full Stack Development  
- Currently learning: Deep Learning & Web Development  
+ Currently learning: Machine Learning & Web Development  
  
  ##  Skills
  Languages: Python, C++, Java  

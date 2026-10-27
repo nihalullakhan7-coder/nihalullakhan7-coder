@@ -4,9 +4,11 @@
  Currently learning: Machine Learning & Web Development  
  
  ##  Skills
- Languages: Python, C++, Java  
- Web: HTML, CSS, JavaScript  
- Tools: Git, GitHub, Linux 
+Programming Languages: Python, C, C++, SQL
+Front-End Technologies: JavaScript, React.js, HTML, CSS, Bootstrap
+Back-End & Database: Node.js, Express.js, MySQL, PostgreSQL
+Machine Learning & Deep Learning: PyTorch, Keras, TensorFlow, Neural Networks, NLP
+Tools: Git, GitHub, VS Code, Streamlit
 
 ##  Connect with me
 - LinkedIn: https://www.linkedin.com/in/nihal-ulla-khan-727395370

@@ -5,9 +5,13 @@
  
  ##  Skills
 Programming Languages: Python, C, C++, SQL
+
 Front-End Technologies: JavaScript, React.js, HTML, CSS, Bootstrap
+
 Back-End & Database: Node.js, Express.js, MySQL, PostgreSQL
+
 Machine Learning & Deep Learning: PyTorch, Keras, TensorFlow, Neural Networks, NLP
+
 Tools: Git, GitHub, VS Code, Streamlit
 
 ##  Connect with me

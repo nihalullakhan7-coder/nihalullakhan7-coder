@@ -1,5 +1,5 @@
 # Hi there, I'm Nihal Ulla Khan
- 3rd Year Information Science Engineering Student  
+ Final Year Information Science Engineering Student  
  Interested in AI, Machine Learning & Full Stack Development  
  Currently learning: Machine Learning & Web Development  
  
